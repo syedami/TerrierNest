@@ -2,7 +2,7 @@
 Terrier Nest is your ultimate guide to on-campus housing options at Boston University. Whether you're a prospective student seeking the perfect dormitory or a current Terrier looking for housing insights, Terrier Nest is here to assist you.
 
 # Here is the Link to the main index file - Home Page
-https://github.com/syedami/TerrierNest/blob/main/index.html
+https://github.com/syedami/TerrierNest/blob/main/index.html](https://syedami.github.io/index.html)
 
 # Features
 Verified Resident Insights:
